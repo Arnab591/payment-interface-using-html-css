@@ -1,0 +1,105 @@
+.main
+{
+    border: 2px solid black;
+    border-radius: 14px;
+    height: 570px;
+    width: 420px;
+    margin-left: 550px;
+    margin-top: 120px;
+    background-color: white;
+    opacity: 70%;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+.text
+{
+    padding-left: 12px;
+    height: 50px;
+}
+.photo
+{
+    display: flex;
+    margin: 10px;
+}
+.visa{
+    height: 50px;
+    width: 60px;
+    margin-left: 35px;
+    background-image: url(visa-logo-png-transparent.png);
+    background-size: cover;
+    
+
+}
+.master{
+    
+    height: 50px;
+    width: 80px;
+    margin-left: 19px;
+    background-image: url(MasterCard_Logo.png);
+    background-size: cover;
+    
+
+}
+.jcb{
+    
+    height: 50px;
+    width: 70px;
+    margin-left: 19px;
+    background-image: url(png-clipart-computer-icons-jcb-co-ltd-credit-card-payment-credit-card-text-payment.png);
+    background-size: cover;
+    padding-right: 10px;
+    
+
+}
+.american{
+    
+    height: 50px;
+    width: 70px;
+    margin-left: 19px;
+    background-image: url(png-transparent-amex-payment-method-icon.png);
+    background-size: cover;
+    padding-right: 10px;
+    
+
+}
+.content
+{
+    padding-left: 19px;
+    
+}
+.same
+{
+    display:flex;
+}
+.btn
+{
+    margin-left: 50px;
+    height: 37px;
+    width: 300px;
+    border: 1px solid chartreuse;
+    border-radius: 5px;
+    background-color:#2084E8;
+    padding-top: 3px;
+    color: white;
+}
+#box
+{
+    width: 250px;
+    height: 27px;
+    border-radius: 5px;
+}
+#same
+{
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+}
+button:hover
+{
+    background-color: chartreuse;
+    color: black;
+
+}
+
